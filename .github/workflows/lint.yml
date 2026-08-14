@@ -1,0 +1,30 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Cancel superseded runs on the same branch.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # Pinned so a new awesome-lint release cannot break CI unannounced.
+      - run: npx awesome-lint@2.3.0
+        env:
+          # awesome-lint reads this exact lowercase name. Without it the repo checks
+          # hit the GitHub API unauthenticated and silently no-op when rate-limited.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
