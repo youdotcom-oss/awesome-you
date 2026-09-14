@@ -7,7 +7,7 @@ Projects built on the You.com platform at hackathons, with winners called out fo
 ## Contents
 
 - [2026 Bay Area Edition](#2026-bay-area-edition)
-- [September 2026 Self-Improving Agents Hackathon](#september-2026-self-improving-agents-hackathon)
+- [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc)
 - [2025 Agentic Hackathon](#2025-agentic-hackathon)
 
 ## 2026 Bay Area Edition
@@ -53,15 +53,15 @@ Official [You.com Agentic Hackathon](https://luma.com/youdotcom-agentic-hackatho
 - [Research Sentinel](https://drive.google.com/file/d/1wzgXVvUa5Ug1r4I_KwRLHRwB2ngODJKz/view) - Multi-agent literature synthesis that extracts findings across papers and flags the gaps between them. *Research*
 - [Trust-Layer Research Fleet](https://github.com/gmelli/trust-layer-research-fleet) - Extracts every claim from a research answer and hands it to adversarial verifiers prompted to refute it. By [@gmelli](https://github.com/gmelli). [Demo](https://youtube.com/shorts/F_RTsjcUHD0) *Research*
 
-## September 2026 Self-Improving Agents Hackathon
+## Build with YOU Hackathon NYC
 
-Co-hosted with One, CrewAI, and Daytona on September 12, 2026. Every submission that used a You.com API is listed, ordered alphabetically except for the winners. Entries link a public repository where there is one, otherwise a demo.
+Co-hosted with One, CrewAI, and Daytona on September 11–12, 2026 in New York City. Every submission that used a You.com API is listed, ordered alphabetically except for the winners. Entries link a public repository where there is one, otherwise a demo.
 
 ### Winners
 
 - 🥇 [LaunchGuard](https://github.com/belalezat1/launchguard) - AI launch control system that runs market research, churn analysis, and release validation, opening remediation tasks in GitHub and Linear when the answer is not Ship. By [@belalezat1](https://github.com/belalezat1). [Demo](https://youtu.be/pcwMQKfc5t4) *Search · Research · Finance Research*
 - 🥈 [Cleanroom](https://github.com/lambdabypi/cleanroom) - Learns to extract structured datasets from the live web by classifying page shapes, recalling past failures, and writing extractors in sandboxes, with a contextual bandit deciding how much context each page is worth. By [@lambdabypi](https://github.com/lambdabypi). [Demo](https://www.youtube.com/watch?v=gTcEGYtfwXo) *Search · Plugins/Skills*
-- 🥉 [F You Money](https://github.com/Mkultra00/skill-setup-helper) - Finds money people are legally owed from class-action settlements, state unclaimed property, and rebates, drafts the paperwork, but stops before sending so the signature and payout stay in the claimant's hands. By [@Mkultra00](https://github.com/Mkultra00). [Demo](https://www.youtube.com/watch?v=JaQfMkNUofQ) *Search · Research · MCP*
+- 🥉 [F You Money](https://github.com/Mkultra00/skill-setup-helper/tree/feat/claimant-workspace) - Finds money people are legally owed from class-action settlements, state unclaimed property, and rebates, drafts the paperwork, but stops before sending so the signature and payout stay in the claimant's hands. By [@Mkultra00](https://github.com/Mkultra00). [Demo](https://www.youtube.com/watch?v=JaQfMkNUofQ) *Search · Research · MCP*
 
 ### All Submissions
 
@@ -71,10 +71,10 @@ Co-hosted with One, CrewAI, and Daytona on September 12, 2026. Every submission 
 - [EvoWeb](https://drive.google.com/drive/folders/1GbhQ20Ba4lCUXVlGNrtI8hG4SbqVccCk) - Self-improving storefront where CrewAI agents watch shoppers, research products via You.com, and open a real GitHub pull request after verifying code changes in a sandbox. *Search · Research · Finance Research · MCP · Plugins/Skills · SDKs*
 - [Follow-Through](https://github.com/franktsai2008-eng/follow-through) - After-meeting agent that structures notes, drafts the follow-up email, and learns from every edit so the person's editing effort decreases over time. By [@franktsai2008-eng](https://github.com/franktsai2008-eng). [Demo](https://youtu.be/3fN4md7ry_s) *Search · MCP · Plugins/Skills*
 - [Kojable](https://github.com/piushvaish/you-hackathon) - Self-improving Answer Alignment agent that measures evidence quality, identifies research failures, and retries — improving from 63% to 90% alignment in one verified run. By [@piushvaish](https://github.com/piushvaish). [Demo](https://youtu.be/59xrt0TT5II) *Search · Research*
-- [Meemaw](https://github.com/WillGzz/Meemaw) - Accessibility app that helps elderly people follow what is happening in their relatives' lives by pulling social media updates through You.com Search. By [@WillGzz](https://github.com/WillGzz). *Search · Plugins/Skills*
+- [Meemaw](https://github.com/WillGzz/Meemaw) - Voice-first relationship assistant for older adults that keeps the UI simple, identifies which family member the user means, and loads their profile with live context. By [@WillGzz](https://github.com/WillGzz). *Search · Plugins/Skills*
 - [REPAIR](https://github.com/faizanprofitpilot/REPAIR) - Safety layer for AI agents that learns rules from mistakes, tests them in Daytona sandboxes, and enforces them deterministically before the agent can repeat the same kind of failure. By [@faizanprofitpilot](https://github.com/faizanprofitpilot). [Demo](https://youtu.be/TWPJRoFWU0k) *Search*
 - [Self Improving Outreach](https://github.com/icohangar-ops/self-improving-outreach) - Closed-loop outbound system where every researched lead improves the next draft, with a consensus hardening protocol that gates sending behind a human lock. By [@icohangar-ops](https://github.com/icohangar-ops). [Demo](https://youtu.be/aGW6S-mfPi8) *Search*
-- [vizithink](https://github.com/dcsan/DEC) - Self-improving decision agent that reflects on how to improve after each session and applies the update for the next one. By [@dcsan](https://github.com/dcsan). [Demo](https://youtu.be/c3KUPtTdPxc) *Research*
+- [ViziThink](https://github.com/dcsan/DEC) - Self-improving decision agent that guides complex choices with visual thinking frameworks, reflecting on how to improve after each session. By [@dcsan](https://github.com/dcsan). [Demo](https://youtu.be/c3KUPtTdPxc) *Research*
 
 ## 2025 Agentic Hackathon
 
