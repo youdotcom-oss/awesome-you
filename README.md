@@ -2,13 +2,23 @@
 
 # Awesome You.com
 
-Projects built on the You.com platform at hackathons, with winners called out for each event. The 2026 Bay Area Edition lists every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
+Projects built on the You.com platform at hackathons, with winners called out for each event. Recent hackathons list every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
 
 ## Contents
 
-- [2026 Bay Area Edition](#2026-bay-area-edition)
-- [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc)
-- [2025 Agentic Hackathon](#2025-agentic-hackathon)
+- [2025 Agentic Hackathon](#2025-agentic-hackathon) — October 2025
+- [2026 Bay Area Edition](#2026-bay-area-edition) — July 2026
+- [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc) — September 2026
+
+## 2025 Agentic Hackathon
+
+You.com Agentic Hackathon 2025, a four-day virtual event held October 27–30, 2025 that drew over 300 developers, builders, and AI enthusiasts from around the world. See the [winners announcement](https://you.com/resources/the-winners-of-the-you-com-agentic-hackathon-2025). Two further awards went to projects with no public repository or demo, so they have no entry below: RAG Pipeline V2 took Best Use of You.com API, and YouCredit (also called TAXLY) took an honorable mention.
+
+### Winners
+
+- 🥇 [MINA](https://github.com/SummerBreezeChang/MINA) - Startup research assistant with Trend Research, Startup Radar, and Funding Research modes over cited live data. By [@SummerBreezeChang](https://github.com/SummerBreezeChang). *Search*
+- 🥈 [DeepRadar](https://github.com/noemit/DeepRadar) - Autonomous industry monitoring that scans the web, filters noise, and delivers concise daily reports. By [@noemit](https://github.com/noemit).
+- 🥉 [Hacksmith](https://github.com/saif-shines/hacksmith) - CLI that frames the right context and instructions to define AI agents inside tools like Claude Code. By [@saif-shines](https://github.com/saif-shines). *Search · Contents*
 
 ## 2026 Bay Area Edition
 
@@ -75,16 +85,6 @@ Co-hosted with One, CrewAI, and Daytona on September 11–12, 2026 in New York C
 - [REPAIR](https://github.com/faizanprofitpilot/REPAIR) - Safety layer for AI agents that learns rules from mistakes, tests them in Daytona sandboxes, and enforces them deterministically before the agent can repeat the same kind of failure. By [@faizanprofitpilot](https://github.com/faizanprofitpilot). [Demo](https://youtu.be/TWPJRoFWU0k) *Search*
 - [Self Improving Outreach](https://github.com/icohangar-ops/self-improving-outreach) - Closed-loop outbound system where every researched lead improves the next draft, with a consensus hardening protocol that gates sending behind a human lock. By [@icohangar-ops](https://github.com/icohangar-ops). [Demo](https://youtu.be/aGW6S-mfPi8) *Search*
 - [ViziThink](https://github.com/dcsan/DEC) - Self-improving decision agent that guides complex choices with visual thinking frameworks, reflecting on how to improve after each session. By [@dcsan](https://github.com/dcsan). [Demo](https://youtu.be/c3KUPtTdPxc) *Research*
-
-## 2025 Agentic Hackathon
-
-You.com Agentic Hackathon 2025, a four-day virtual event held October 27–30, 2025 that drew over 300 developers, builders, and AI enthusiasts from around the world. See the [winners announcement](https://you.com/resources/the-winners-of-the-you-com-agentic-hackathon-2025). Two further awards went to projects with no public repository or demo, so they have no entry below: RAG Pipeline V2 took Best Use of You.com API, and YouCredit (also called TAXLY) took an honorable mention.
-
-### Winners
-
-- 🥇 [MINA](https://github.com/SummerBreezeChang/MINA) - Startup research assistant with Trend Research, Startup Radar, and Funding Research modes over cited live data. By [@SummerBreezeChang](https://github.com/SummerBreezeChang). *Search*
-- 🥈 [DeepRadar](https://github.com/noemit/DeepRadar) - Autonomous industry monitoring that scans the web, filters noise, and delivers concise daily reports. By [@noemit](https://github.com/noemit).
-- 🥉 [Hacksmith](https://github.com/saif-shines/hacksmith) - CLI that frames the right context and instructions to define AI agents inside tools like Claude Code. By [@saif-shines](https://github.com/saif-shines). *Search · Contents*
 
 ## Contributing
 
