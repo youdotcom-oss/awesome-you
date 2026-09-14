@@ -2,12 +2,36 @@
 
 # Awesome You.com
 
-Projects built on the You.com platform at hackathons, with winners called out for each event. The 2026 Bay Area Edition lists every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
+Projects built on the You.com platform at hackathons, with winners called out for each event. Recent hackathons list every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
 
 ## Contents
 
-- [2026 Bay Area Edition](#2026-bay-area-edition)
-- [2025 Agentic Hackathon](#2025-agentic-hackathon)
+- [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc) — September 2026
+- [2026 Bay Area Edition](#2026-bay-area-edition) — July 2026
+- [2025 Agentic Hackathon](#2025-agentic-hackathon) — October 2025
+
+## Build with YOU Hackathon NYC
+
+Co-hosted with One, CrewAI, and Daytona on September 11–12, 2026 in New York City. Every submission that used a You.com API is listed, ordered alphabetically except for the winners. Entries link a public repository where there is one, otherwise a demo.
+
+### Winners
+
+- 🥇 [LaunchGuard](https://github.com/belalezat1/launchguard) - AI launch control system that runs market research, churn analysis, and release validation, opening remediation tasks in GitHub and Linear when the answer is not Ship. By [@belalezat1](https://github.com/belalezat1). [Demo](https://youtu.be/pcwMQKfc5t4) *Search · Research · Finance Research*
+- 🥈 [Cleanroom](https://github.com/lambdabypi/cleanroom) - Learns to extract structured datasets from the live web by classifying page shapes, recalling past failures, and writing extractors in sandboxes, with a contextual bandit deciding how much context each page is worth. By [@lambdabypi](https://github.com/lambdabypi). [Demo](https://www.youtube.com/watch?v=gTcEGYtfwXo) *Search · Plugins/Skills*
+- 🥉 [F You Money](https://github.com/Mkultra00/skill-setup-helper/tree/feat/claimant-workspace) - Finds money people are legally owed from class-action settlements, state unclaimed property, and rebates, drafts the paperwork, but stops before sending so the signature and payout stay in the claimant's hands. By [@Mkultra00](https://github.com/Mkultra00). [Demo](https://www.youtube.com/watch?v=JaQfMkNUofQ) *Search · Research · MCP*
+
+### All Submissions
+
+- [CurriculumAI](https://github.com/prerna1001/CurriculumAI) - Self-improving curriculum planner that adapts course recommendations based on which topics a professor selects, building a durable teaching-style profile across sessions. By [@prerna1001](https://github.com/prerna1001). [Demo](https://youtu.be/ms4AOIs1zj8) *Search*
+- [Drug Detective](https://github.com/lakshya-dharwal/drug-detective) - Drug repurposing research platform where a crew of agents investigates candidate drugs, screens evidence in sandboxes, and visibly changes its approach when the evidence comes back weak. By [@lakshya-dharwal](https://github.com/lakshya-dharwal). [Demo](https://youtu.be/MFc5ZWMTGRc) *Search*
+- [Event Planner](https://github.com/ryanjspears/you-hackathon-events) - Event aggregator that scans the live web for local events, routing You.com Search through CrewAI agents and Daytona sandboxes. By [@ryanjspears](https://github.com/ryanjspears). [Demo](https://youtu.be/suwcpih2CFo) *Search*
+- [EvoWeb](https://drive.google.com/drive/folders/1GbhQ20Ba4lCUXVlGNrtI8hG4SbqVccCk) - Self-improving storefront where CrewAI agents watch shoppers, research products via You.com, and open a real GitHub pull request after verifying code changes in a sandbox. *Search · Research · Finance Research · MCP · Plugins/Skills · SDKs*
+- [Follow-Through](https://github.com/franktsai2008-eng/follow-through) - After-meeting agent that structures notes, drafts the follow-up email, and learns from every edit so the person's editing effort decreases over time. By [@franktsai2008-eng](https://github.com/franktsai2008-eng). [Demo](https://youtu.be/3fN4md7ry_s) *Search · MCP · Plugins/Skills*
+- [Kojable](https://github.com/piushvaish/you-hackathon) - Self-improving Answer Alignment agent that measures evidence quality, identifies research failures, and retries — improving from 63% to 90% alignment in one verified run. By [@piushvaish](https://github.com/piushvaish). [Demo](https://youtu.be/59xrt0TT5II) *Search · Research*
+- [Meemaw](https://github.com/WillGzz/Meemaw) - Voice-first relationship assistant for older adults that keeps the UI simple, identifies which family member the user means, and loads their profile with live context. By [@WillGzz](https://github.com/WillGzz). *Search · Plugins/Skills*
+- [REPAIR](https://github.com/faizanprofitpilot/REPAIR) - Safety layer for AI agents that learns rules from mistakes, tests them in Daytona sandboxes, and enforces them deterministically before the agent can repeat the same kind of failure. By [@faizanprofitpilot](https://github.com/faizanprofitpilot). [Demo](https://youtu.be/TWPJRoFWU0k) *Search*
+- [Self Improving Outreach](https://github.com/icohangar-ops/self-improving-outreach) - Closed-loop outbound system where every researched lead improves the next draft, with a consensus hardening protocol that gates sending behind a human lock. By [@icohangar-ops](https://github.com/icohangar-ops). [Demo](https://youtu.be/aGW6S-mfPi8) *Search*
+- [ViziThink](https://github.com/dcsan/DEC) - Self-improving decision agent that guides complex choices with visual thinking frameworks, reflecting on how to improve after each session. By [@dcsan](https://github.com/dcsan). [Demo](https://youtu.be/c3KUPtTdPxc) *Research*
 
 ## 2026 Bay Area Edition
 
