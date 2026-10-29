@@ -14,7 +14,7 @@ Projects built on the You.com platform at hackathons, with winners called out fo
 
 ## Hack with YOU: Halloween Edition
 
-Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the AWS Builder Loft in San Francisco. [Hack with YOU: Halloween Edition](https://youdotcom-oss.github.io/halloween-hack-2026/) ran three tracks: autonomous agent swarms, generative UI dashboards, and an open category. Every judged submission that used a You.com API is listed, grouped by track. Entries link a public repository where there is one, otherwise a live demo.
+Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the AWS Builder Loft in San Francisco. [Hack with YOU: Halloween Edition](https://youdotcom-oss.github.io/halloween-hack-2026/) ran three tracks: autonomous agent swarms, generative UI pipelines, and an open category. Every judged submission that used a You.com API is listed, grouped by track. Entries link a public repository where there is one, otherwise a live demo.
 
 ### Winners
 
@@ -34,7 +34,7 @@ Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the A
 
 - [Boo-ard Room](https://github.com/spbest20/booardroom) - Command station that designs its own interface from a messy incident report, checking readings against the live web and streaming panels in as the model writes them. By [@spbest20](https://github.com/spbest20). [Demo](https://github.com/spbest20/booardroom/blob/main/docs/demo.mp4) *Search*
 - [Vigil](https://github.com/elsisiem/vigil) - Turns any incident log into an operating brief, with three agents investigating in parallel while the interface is compiled for that incident and a commander proposes one call with a cited checklist. By [@elsisiem](https://github.com/elsisiem). [Demo](https://www.loom.com/share/2dd98536cf8642bd8eb7b3ec3dc9437f) [Live](https://vigil-station.fly.dev) *Search · Contents · Research*
-- [Wraith](https://github.com/vnmoorthy/wraith) - War room where a CrewAI swarm deliberates over an incident, the live web verifies it, and a bespoke command station streams in component by component. By [@vnmoorthy](https://github.com/vnmoorthy). [Demo](https://drive.google.com/drive/folders/1CJSvUuDcJEPRtQfgV_6n1ZU2AzBcaSP3) [Live](https://vnmoorthy.github.io/wraith/app/) *Search · Contents*
+- [Wraith](https://github.com/vnmoorthy/wraith) - War room where a CrewAI swarm deliberates over an incident, the live web verifies it, and a bespoke command station streams in component by component. By [@vnmoorthy](https://github.com/vnmoorthy). [Demo](https://drive.google.com/drive/folders/1CJSvUuDcJEPRtQfgV_6n1ZU2AzBcaSP3) *Search · Contents*
 
 ### The Open Haunt
 
