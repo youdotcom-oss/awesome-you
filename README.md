@@ -14,7 +14,7 @@ Projects built on the You.com platform at hackathons, with winners called out fo
 
 ## Hack with YOU: Halloween Edition
 
-Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the AWS Builder Loft in San Francisco. [Hack with YOU: Halloween Edition](https://youdotcom-oss.github.io/halloween-hack-2026/) ran three tracks: autonomous agent swarms, generative UI pipelines, and an open category. Every judged submission that used a You.com API is listed, grouped by track. Entries link a public repository where there is one, otherwise a live demo.
+Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the AWS Builder Loft in San Francisco. [Hack with YOU: Halloween Edition](https://luma.com/you-halloween) ran three tracks, set out in its [event guide](https://youdotcom-oss.github.io/halloween-hack-2026/): autonomous agent swarms, generative UI pipelines, and an open category. Every judged submission that used a You.com API is listed, grouped by track. Entries link a public repository where there is one, otherwise a live demo.
 
 ### Winners
 
