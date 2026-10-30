@@ -6,10 +6,48 @@ Projects built on the You.com platform at hackathons, with winners called out fo
 
 ## Contents
 
+- [Hack with YOU: Halloween Edition](#hack-with-you-halloween-edition) — October 2026
 - [The Recursive Agents Hackathon](#the-recursive-agents-hackathon) — October 2026
 - [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc) — September 2026
 - [2026 Bay Area Edition](#2026-bay-area-edition) — July 2026
 - [2025 Agentic Hackathon](#2025-agentic-hackathon) — October 2025
+
+## Hack with YOU: Halloween Edition
+
+Presented by You.com with One, Parasail, and CrewAI on October 28, 2026 at the AWS Builder Loft in San Francisco. [Hack with YOU: Halloween Edition](https://luma.com/you-halloween) ran three tracks, set out in its [event guide](https://youdotcom-oss.github.io/halloween-hack-2026/): autonomous agent swarms, generative UI pipelines, and an open category. Every submission that used a You.com API is listed, grouped by track. Entries link a public repository where there is one, otherwise a live demo.
+
+### Winners
+
+- 🥇 [Ghost Grip](https://github.com/digitalshare/ghost-grip) - AI camera-robot crew for horror films that finds real reference shots on the live web, designs camera moves, and revises them until a simulated motion-control arm can safely perform every one. By [@digitalshare](https://github.com/digitalshare). [Demo](https://youtu.be/9FJGpRMhpRw) *Search · Contents*
+- 🥈 [Haunted Command Station](https://github.com/gippy/you-hackaton-2026-track-2) - Turns a raw incident report into a working command station built live from a component library, with every countermeasure citing a numbered You.com source. By [@gippy](https://github.com/gippy). [Demo](https://youtu.be/ZqF8nGHmYpo) [Live](https://jaroslavhejlek--haunted-command-station.apify.actor) *Search*
+- 🥉 [Halloween Swarm](https://github.com/ghopgaurav/halloween-swarm) - Triages incident ticks in code, sends ambiguous sectors to role-separated CrewAI agents, and alerts the venue Discord only when a real hazard trips. By [@ghopgaurav](https://github.com/ghopgaurav). *Search · Plugins/Skills*
+
+### The Exorcism Protocol
+
+- [Agentgeist](https://github.com/KishSiva/agentgeist) - Supervised CrewAI swarm where each specialist sees only its slice of the tick, with a sighting researcher checking reports through You.com before a commander decides. By [@KishSiva](https://github.com/KishSiva) and [@ValtsVekters](https://github.com/ValtsVekters). *Search · Contents*
+- [Exorcism Swarm](https://github.com/dmitrypehovski/exorcism-swarm) - Supervised CrewAI swarm that tells real outbreaks from false alarms with a deterministic sensor gate, containing 400 simulated outbreaks across 200 seeds without a false alarm. By [@dmitrypehovski](https://github.com/dmitrypehovski). [Demo](https://cdn.jsdelivr.net/gh/dmitrypehovski/exorcism-swarm@a307048fdc21c21903b98fa0365d73226b9af158/demo/exorcism-swarm-demo.mp4) *Search*
+- [Exorcism Swarm](https://github.com/MarkusBerl/exorcism-swarm) - Hierarchical CrewAI crew of sentinel, analyst, and dispatcher agents that reasons over sector reports from the live scenario feed and picks one action per tick. By [@MarkusBerl](https://github.com/MarkusBerl). [Demo](https://drive.google.com/drive/folders/1dpZ-JWdhH0IiAENqHgdPUAray0WZ9MD6) *Search*
+- [GhostOps](https://github.com/kumailb1214/GhostOps-Exorcism-Protocol-swarm) - Supervised CrewAI swarm that triages every sector before any model runs and spends extra reasoning only where it can change the containment decision. By [@kumailb1214](https://github.com/kumailb1214). *Search*
+- [Watchtower](https://github.com/rohith-200/HackwithYOU_Team_Spooky) - Supervised agent swarm that triages each sector, sends agents with partial knowledge to analyze it, and records tokens, cost, and latency for every tick. By [@GJaideepReddy](https://github.com/GJaideepReddy), [@rohith-200](https://github.com/rohith-200), and [@namank70](https://github.com/namank70). *Search*
+
+### The Haunted Dashboard
+
+- [Boo-ard Room](https://github.com/spbest20/booardroom) - Command station that designs its own interface from a messy incident report, checking readings against the live web and streaming panels in as the model writes them. By [@spbest20](https://github.com/spbest20). [Demo](https://github.com/spbest20/booardroom/blob/main/docs/demo.mp4) *Search*
+- [Vigil](https://github.com/elsisiem/vigil) - Turns any incident log into an operating brief, with three agents investigating in parallel while the interface is compiled for that incident and a commander proposes one call with a cited checklist. By [@elsisiem](https://github.com/elsisiem). [Demo](https://www.loom.com/share/2dd98536cf8642bd8eb7b3ec3dc9437f) [Live](https://vigil-station.fly.dev) *Search · Contents · Research*
+- [Wraith](https://github.com/vnmoorthy/wraith) - War room where a CrewAI swarm deliberates over an incident, the live web verifies it, and a bespoke command station streams in component by component. By [@vnmoorthy](https://github.com/vnmoorthy). [Demo](https://drive.google.com/drive/folders/1CJSvUuDcJEPRtQfgV_6n1ZU2AzBcaSP3) *Search · Contents*
+
+### The Open Haunt
+
+- [Clearbell](https://d4wtf1to1i5mh.cloudfront.net) - Night-shift safety for care homes that keeps conflicting handover notes word for word, lists the checks nobody has done, and adds more when You.com finds an FDA recall for equipment on file. *Search · Contents*
+- [Exorcism Protocol](https://github.com/RashmiTechie/exorcism-protocol) - Supervised agent swarm that contains a paranormal outbreak in a simulated facility, scored live against a single-agent baseline on the same seeded outbreak. By [@RashmiTechie](https://github.com/RashmiTechie). [Demo](https://youtu.be/aNpMwGsS8To) *Search*
+- [Field Seance](https://github.com/amrishwalke/field-seance) - Gets biomedical innovators up to speed in an unfamiliar clinical field with a cited training guide covering anatomy, current approaches, unmet needs, and future directions. By [@amrishwalke](https://github.com/amrishwalke). [Demo](https://youtu.be/kPIE9co5-A8) *Search*
+- [GHOSTCAST](https://github.com/Saurabhkhire/youcom) - Turns a description of a spooky place into a Haunted Atlas page with the real place's history, ghost legends, and tonight's weather, dropping any fact that doesn't cite a You.com source. By [@Saurabhkhire](https://github.com/Saurabhkhire). [Demo](https://youtu.be/UnWmkLnQPuM) *Search · Research*
+- [Hackathonner](https://github.com/yasmeen-khalil/hackathonner) - Turns a hackathon's scattered links into a brief, a gameplan, and a deadline countdown, pulling out the tracks, rules, rubric, and submission requirements. By [@yasmeen-khalil](https://github.com/yasmeen-khalil). [Demo](https://youtu.be/wh4PZ94cfOY) *Search · Contents*
+- [Haulage Brain](https://github.com/adammendoza/AWS-Build-With-You-Hackathon-2026-Haulage-Brain) - Agent swarm that evaluates UK freight loads and produces evidence-backed quotes, keeping the fleet manager in control of every booking decision. By [@adammendoza](https://github.com/adammendoza) and [@tgorka](https://github.com/tgorka). [Demo](https://youtu.be/e63QiHo9x94) *Search*
+- [Maia](https://github.com/bennettchamberlain/Requiem) - Personal memory and AI that lives on your machine, keeping its life graph and policies local and calling cloud services such as You.com search only when they earn it. By [@bennettchamberlain](https://github.com/bennettchamberlain). *Search · MCP · Plugins/Skills*
+- [SeedWise](https://github.com/XRGeek/HackWithYou) - SMS-first farm advisory where agents research a farmer's location, plot, and crops, text back a short sourced reply, and alert a human when a risk is urgent. By [@XRGeek](https://github.com/XRGeek). [Demo](https://www.loom.com/share/56be4c9ddcba422aa1714dd350e3c77e) *Search*
+- [Streetli Ghost Links](https://github.com/doobneek-org/streetli-ghost-links) - Hunts down outdated phone numbers, emails, and websites for NYC community services, helping people affected by an emergency find services that can still help. By [@doobneek](https://github.com/doobneek). [Demo](https://youtu.be/_Z0qoiRE3Oo) *Search · Contents*
+- [SuperSubstitute](https://github.com/gonzalj3/supersubstitute) - Turns an elementary teacher's absence notice into a reviewed math lesson pack, substitute preparation, and a shared classroom practice session. By [@gonzalj3](https://github.com/gonzalj3). [Demo](https://www.loom.com/share/502f7da9b6594a00ab090186e408c858) [Live](https://understudy-classroom.martin-jose-gonzalez.workers.dev) *Search · Contents*
 
 ## The Recursive Agents Hackathon
 
