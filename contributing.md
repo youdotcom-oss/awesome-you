@@ -15,15 +15,16 @@ and it stays.
 
 ## What qualifies
 
-If you built it at a hackathon with You.com APIs and it has a working link, it belongs
+If you built it at a hackathon with You.com APIs and it has a public link, it belongs
 here. That's all it takes:
 
 - Built at a hackathon — one of ours or anyone else's.
 - Uses at least one You.com API, MCP tool, plugin, or skill for real, rather than as a
   stub or a placeholder.
-- Has at least one public link that works: a repository, a live demo, or a demo video.
-  A public repository with a README is preferred, and is what the entry should link to
-  when it exists.
+- Has at least one public link: a repository, a live demo, or a demo video. Links
+  should work at submission time, except the sole link a team submitted at its event,
+  which stays even if it goes offline. A public repository with a README is preferred,
+  and is what the entry should link to when it exists.
 
 **You do not need to have won anything.** Winners and finalists are called out with
 their placement, but most entries here never placed, and that is the point — this is a
@@ -32,8 +33,8 @@ record of what people built, not a leaderboard.
 **Built it at a hackathon we didn't run?** Still welcome. Open a pull request and we
 will add a section for that event.
 
-Links should work at the time you submit them. Nobody is expected to keep them alive
-forever.
+Apart from that exception, links should work at the time you submit them. Nobody is
+expected to keep them alive forever.
 
 ## How to add your project
 
@@ -78,7 +79,7 @@ forever.
 
 ## Review
 
-Maintainers review each new PR against the criteria above: links that resolve at submission time, and a description that matches what the project actually does. Markdown must be clean and grammatically correct. Existing entries are not re-reviewed as links age.
+Maintainers review each new PR against the criteria above, including the event-submitted-link exception, and check that each description matches what the project actually does. Markdown must be clean and grammatically correct. Existing entries are not re-reviewed as links age.
 
 ## Style notes
 
