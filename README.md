@@ -2,15 +2,33 @@
 
 # Awesome You.com
 
-Projects built on the You.com platform at hackathons, with winners called out for each event. Recent hackathons list every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
+Projects built on the You.com platform at hackathons, with winners called out for each event. Recent hackathons list every qualifying submission; earlier events list their published winners. Where it was recorded, each entry credits its builder and notes the You.com APIs used — Search, Contents, Answer, Research, Finance Research, MCP, Plugins/Skills, or the SDKs. Start building with the [You.com API docs](https://you.com/docs).
 
 ## Contents
 
+- [Speech to Ship Hackathon](#speech-to-ship-hackathon) — November 2026
 - [Hack with YOU: Halloween Edition](#hack-with-you-halloween-edition) — October 2026
 - [The Recursive Agents Hackathon](#the-recursive-agents-hackathon) — October 2026
 - [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc) — September 2026
 - [2026 Bay Area Edition](#2026-bay-area-edition) — July 2026
 - [2025 Agentic Hackathon](#2025-agentic-hackathon) — October 2025
+
+## Speech to Ship Hackathon
+
+Hosted by Willow, Emergent, and You.com on November 20, 2026 at Emergent HQ in San Francisco. At [Speech to Ship](https://luma.com/1netrne6), every team drew a random city, business, and customer, then built and shipped a live app by voice in one day. Fifteen teams submitted. Every submission that used a You.com API is listed alphabetically. Entries link a public repository where there is one, otherwise the live app.
+
+### All Submissions
+
+- [BoomDrop](https://github.com/swarnimsandeepds/fireworks-drop) - Voice-ordered fireworks stand for TikTok dancers in Phnom Penh that times a 15-second shot to the beat drop, using live You.com search for trending sounds. By [@swarnimsandeepds](https://github.com/swarnimsandeepds). [Live](https://fireworks-drop.emergent.host) *Search*
+- [Cebu Night Shift](https://puzzle-stop.emergent.host) - 24-hour convenience store in Cebu where every purchase unlocks a puzzle drawn from the order or from city landmarks found with You.com, and three solves earn a discount. *Search*
+- [FA CHE 花車: The Flower Float](https://github.com/techadnank9/flower-float) - 3D browser game on Hong Kong's harbourfront where a Mong Kok florist helps three struggling food-truck owners, teaching the meaning and superstition behind each flower. By [@techadnank9](https://github.com/techadnank9). [Live](https://flower-float.emergent.host) *Search*
+- [Heckle & Hint](https://github.com/Person1782/speechHack) - Bilingual pub quiz for Saigon bars where a comedian hosts from their phone, turning the crowd's answers into live material, with questions drawn from news found through You.com. By [@Person1782](https://github.com/Person1782) and [@CypherBolt](https://github.com/CypherBolt). [Live](https://quiz-and-riff--39crjv3i.preview.emergentagent.com) *Search*
+- [Llanfair Spectre Forge](https://github.com/lopkiloinm/metalheadghosthunter) - Ghost-hunting gear rental for metalheads in Llanfairpwllgwyngyll, with rigs to inspect in 3D, a live map of Anglesey's haunted sites, and local intel from You.com search. By [@lopkiloinm](https://github.com/lopkiloinm). [Live](https://polished-app-60.emergent.host) *Search*
+- [Ondo](https://github.com/vnmoorthy/ondo) - Heat-safety check for older cruise passengers at a Penang onsen, combining live heat readings from You.com with a deterministic rules engine to write a cited soak prescription. By [@vnmoorthy](https://github.com/vnmoorthy). [Live](https://heat-safe-onsen.emergent.host) *Search · Answer*
+- [PeakDate](https://first-date-prep-1.emergent.host) - Voice-first app that gives nervous bodybuilders a "peak week" for a first date in Sedona, building a 72-hour macro-friendly meal plan with live sunset, weather, and restaurant intel from You.com.
+- [Sketch & Sword](https://parchment-booth.emergent.host) - Booking platform for caricature artists at Paris medieval fairs, with an event radar that finds upcoming festivals, dates, and vendor deadlines through You.com search. *Search*
+- [Verdict](https://voice-diligence.emergent.host) - Voice-first diligence assistant for a vegan vinyl shop in Madeira that researches any record with You.com and rules BUY, NO BUY, or NEED MORE RESEARCH against clear vegan rules. *Search*
+- [Writer's Block Night](https://pitch-night-lima.emergent.host) - Writers' room for stuck novelists at a Lima comedy club, where four local characters pitch what happens next, each built on a real place found live with You.com. *Search*
 
 ## Hack with YOU: Halloween Edition
 
