@@ -59,7 +59,7 @@ forever.
      public; names and contact details from event submission forms are not ours to
      publish. Omit the credit if the project has no repository.
    - End the entry with the You.com APIs it was built on, in italics, separated by
-     `·`. Use the short names: `Search`, `Contents`, `Research`, `Finance Research`,
+     `·`. Use the short names: `Search`, `Contents`, `Answer`, `Research`, `Finance Research`,
      `MCP`, `Plugins/Skills`, `SDKs`. Omit it if the APIs used were never recorded.
    - Put your entry in your event's section, under its track if that event had
      tracks. Entries are alphabetical within a subsection, except `Winners`, which
