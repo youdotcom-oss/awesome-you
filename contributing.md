@@ -68,7 +68,8 @@ forever.
      else goes in its track subsection with no medal or emoji.
    - All URLs must be HTTPS (unless the project is only hosted on HTTP).
    - Link only URLs that resolve. If a demo has already gone offline, leave it out
-     rather than linking a dead page.
+     rather than linking a dead page, unless it is the only link the team submitted
+     at the event.
 
 3. Run `npx awesome-lint@2.3.0` locally and fix anything it reports. CI pins the
    same version, so a new release cannot make your local run disagree with it.
