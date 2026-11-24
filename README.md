@@ -6,12 +6,37 @@ Projects built on the You.com platform at hackathons, with winners called out fo
 
 ## Contents
 
+- [BEYOND 9TO5 Buildathon](#beyond-9to5-buildathon) — November 2026
 - [Speech to Ship Hackathon](#speech-to-ship-hackathon) — November 2026
 - [Hack with YOU: Halloween Edition](#hack-with-you-halloween-edition) — October 2026
 - [The Recursive Agents Hackathon](#the-recursive-agents-hackathon) — October 2026
 - [Build with YOU Hackathon NYC](#build-with-you-hackathon-nyc) — September 2026
 - [2026 Bay Area Edition](#2026-bay-area-edition) — July 2026
 - [2025 Agentic Hackathon](#2025-agentic-hackathon) — October 2025
+
+## BEYOND 9TO5 Buildathon
+
+Hosted by Vybe Driven, EtriqAI, and Paytm AI as two eight-hour offline editions at Paytm offices in India: [Bengaluru](https://www.vybedriven.in/opportunities/beyond-9to5-buildathon-bengaluru-2026) on November 21, 2026 and [Mumbai](https://www.vybedriven.in/opportunities/beyond-9to5-buildathon-mumbai-2026) on November 22. The submissions sheet covers 39 unique projects across both editions. Every project that used a You.com API is listed alphabetically, linking the submitted repository and any working live app.
+
+### All Submissions
+
+- [Bug Buddy](https://github.com/30sharathkumar-ux/Bugbuddy) - Debugging assistant that searches live GitHub issues, Stack Overflow, and official docs, then generates grounded analysis with Gemini. By [@30sharathkumar-ux](https://github.com/30sharathkumar-ux). *Search*
+- [DayZero](https://github.com/MohammedSahil-Shaikh/paytm-hackathon) - Candidate-to-employee platform covering company research, adaptive voice interviews, evidence reports, and personalized 30/60/90-day roadmaps. By [@darshanjain18](https://github.com/darshanjain18), [@MohammedSahil-Shaikh](https://github.com/MohammedSahil-Shaikh), and [@realsaifkhann](https://github.com/realsaifkhann). *Search*
+- [DukaanPulse](https://github.com/psryogeshwar-14/dukaanpulse) - Helps independent cafés research local offers, check unit economics, and run bounded experiments with cited sources and visible uncertainty. By [@psryogeshwar-14](https://github.com/psryogeshwar-14). [Live](https://dukaanpulse-eight.vercel.app) *Search*
+- [GapScope](https://github.com/Vivekh22/Paytm_Beyond_API) - Market intelligence engine that validates ideas and investigates businesses with viability scores and evidence linked to every claim. By [@Vivekh22](https://github.com/Vivekh22), [@Varashree01](https://github.com/Varashree01), [@AM-iSMAIL](https://github.com/AM-iSMAIL), and [@aatifzafar](https://github.com/aatifzafar). [Live](https://qwer-beta-ten.vercel.app) *Search*
+- [MediSync](https://github.com/flutterfleet11/medisync) - Connects patients, clinics, doctors, compounders, and pharmacies through live queues, digital prescriptions, and real inventory. By [@danishahmed22](https://github.com/danishahmed22). [Live](https://medisync-one-dun.vercel.app) *Answer*
+- [Nazar Rakho](https://github.com/Munazir151/Nazar) - Group-chat search and monitoring agent for cited web and shopping results, with watches that alert only when a real change occurs. By [@Munazir151](https://github.com/Munazir151). *Research · Finance Research*
+- [OfferCheck](https://github.com/aryantyagi2211/OfferChecking) - Verifies job, internship, and freelance offers against live web evidence to expose impersonated recruiters and advance-fee scams. By [@aryantyagi2211](https://github.com/aryantyagi2211). [Live](https://offercheck-lfok.onrender.com) *Search*
+- [PaySift](https://github.com/nikhil-0420/Pay-Sift) - Finds financial state-machine bugs in AI-written payment handlers through invariant fuzzing, counterexample shrinking, and documentation grounding. By [@nikhil-0420](https://github.com/nikhil-0420) and [@nehaa-0420](https://github.com/nehaa-0420). [Live](https://pay-sift.vercel.app) *Search*
+- [PaytmOne AI](https://github.com/artificialgrrow/Paytm_Hackathon_Final) - Voice-first financial assistant for everyday actions and autonomous payment-dispute resolution in English and Hindi. By [@akashbichukale111](https://github.com/akashbichukale111) and [@Sayyam-Karnavat](https://github.com/Sayyam-Karnavat). [Live](https://paytmone.vercel.app) *Search*
+- [Saarthi — Unified Material Master & Intelligence Platform](https://github.com/Kinghx56/Friends) - Unifies and deduplicates material master data across public-sector enterprises, with live procurement and engineering-equivalence research. By [@Darshil-N](https://github.com/Darshil-N). *Search · Contents*
+- [SchemeSathi AI](https://github.com/RROOSSHHAA/SchemeSathi) - Matches citizens to government welfare schemes with deterministic eligibility checks, official citations, and step-by-step application guidance. By [@RROOSSHHAA](https://github.com/RROOSSHHAA) and [@SUYOGRAGHAV556](https://github.com/SUYOGRAGHAV556). [Live](https://schemesathi1.netlify.app) *Search*
+- [TELYVO](https://github.com/vikasyadav0103/telyvo-platform) - Technology decision platform that researches engineering choices with cited live sources, records rationale, and supports team discussion. By [@vikasyadav0103](https://github.com/vikasyadav0103). *Research*
+- [TenderSaathi](https://github.com/rithvikshettyy/tendersaathi) - Finds Indian government and private tenders, reads tender PDFs for eligibility, flags risky buyers, and scores bid readiness. By [@rithvikshettyy](https://github.com/rithvikshettyy), [@vinaypokharkar](https://github.com/vinaypokharkar), and [@vedududu](https://github.com/vedududu). [Live](https://tendersaathi-cyan.vercel.app) *Search · Contents*
+- [The Paper Trail](https://github.com/Rakshith176/hack_with_sang/tree/master) - News reader that places each article beside its publication history, showing how the account changed and which reports connect it. By [@Rakshith176](https://github.com/Rakshith176). *Search*
+- [Tripwire: Office Pact](https://github.com/mouneshbelavadi/tripwire) - Lets distributed teammates agree on commute limits and a decision deadline, alerting only after repeated breaches. By [@mouneshbelavadi](https://github.com/mouneshbelavadi). [Live](https://tripwire-nu-one.vercel.app) *Answer*
+- [TruthCircle](https://github.com/Pujitha1809/TruthCircle-Live-) - Real-time multiplayer misinformation firewall for group chats that checks rumors, scams, and doctored media before they spread. By [@renoschubert](https://github.com/renoschubert) and [@Pujitha1809](https://github.com/Pujitha1809). [Live](https://truth-circle-live.vercel.app) *Search*
+- [VibeGuard](https://github.com/princep266/vibe-guard) - Security scanner for AI-generated apps that attaches advisory research and explanations while keeping suggested changes subject to approval. By [@princep266](https://github.com/princep266). *Search · Contents*
 
 ## Speech to Ship Hackathon
 
